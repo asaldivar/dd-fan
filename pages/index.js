@@ -20,8 +20,8 @@ const Copy = styled.h1`
 export default function Home() {
   return (
     <Container>
-      <Hero src="https://www.indiewire.com/wp-content/uploads/2017/12/11062346_939719442745662_6329262082203731115_n.jpg?w=780" />
-      <Copy>"Don't bully me Daniel!"</Copy>
+      <Hero src="https://vignette.wikia.nocookie.net/villains/images/a/a0/Mr._Daniel_Plainview.jpg/revision/latest?cb=20150329203424" />
+      <Copy>"I drink your milkshake! I drink it up!"</Copy>
     </Container>
   );
 }
